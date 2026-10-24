@@ -1,6 +1,6 @@
 # Video frame extractor — video to images (examples)
 
-Turn any **video link** (MP4, MOV, WebM, MKV, AVI, OGV… up to 1 GB) into **images**: one frame **every N seconds** or an **exact number of evenly spaced frames**, as JPG, PNG or WebP with timestamps and a **public link per frame**. Hosted on Apify: **[Video Frame Extractor](https://apify.com/tidydata/video-frame-extractor)** — **$1 per 1,000 frames**, no ffmpeg install.
+Turn any **video link** (MP4, MOV, WebM, MKV, AVI, OGV… up to 1 GB) into **images**: one frame **every N seconds** or an **exact number of evenly spaced frames**, as JPG, PNG or WebP with timestamps and a **public link per frame**. Hosted on Apify: **[Video Frame Extractor](https://apify.com/tidydata/video-frame-extractor)** — **$2 per 1,000 frames**, no ffmpeg install.
 
 ## Python
 
